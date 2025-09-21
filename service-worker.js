@@ -1,8 +1,8 @@
 const CACHE_NAME = 'gps-tracker-v1';
-const OFFLINE_URL = '/tracker.html';
+const OFFLINE_URL = '/index.html';
 const ASSETS = [
   '/',
-  '/tracker.html',
+  '/index.html',
   '/manifest.json',
   '/icons/icon-192.png',
   '/icons/icon-512.png'
